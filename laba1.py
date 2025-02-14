@@ -1,3 +1,4 @@
 a = int(input("введите число"))
 n = int(input("введите число"))
-print(a+n)
+b = 8
+print(a+n+b)
